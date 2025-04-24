@@ -1,0 +1,12 @@
+# Ignore compiled binaries
+*.o
+*.exe
+*.out
+a.out
+
+# Ignore temporary files
+*.tmp
+
+# Ignore IDE-specific files (if you use an IDE)
+.idea/           # IntelliJ IDEA
+*.swp            # Vim
